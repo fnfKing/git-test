@@ -12,5 +12,6 @@ public class GItHello {
         System.out.println("git hello4");
         System.out.println("master commit");
         System.out.println("hot-fix commit");
+        System.out.println("push test");
     }
 }
